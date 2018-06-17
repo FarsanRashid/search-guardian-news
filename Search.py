@@ -89,6 +89,6 @@ def filter_query(q):
 
 
 conn = sqlite3.connect('guardian_news.db')
-query_text = 'who is the president of soviet union'
+query_text = 'president of soviet union'
 filtered_query = filter_query(query_text)
 query(filtered_query)
