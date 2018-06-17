@@ -1,1 +1,1 @@
-# search-guardian-news
+# Search engine for guardian news article
